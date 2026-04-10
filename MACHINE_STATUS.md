@@ -1,16 +1,20 @@
 # 登陆信息
 
-_自动生成于 2026-04-11 00:06:06_
+_自动生成于 2026-04-11 00:08:50_
 
 **仅展示当前配置文件中的 job**：若从 `job_ids` 中删掉某项，对应内容将不再出现在本文档（下一轮同步生效）。
 
 ## mllm-code
 
-**拉取 attempts 失败**: attempts 不可用或返回非 JSON
+- ✅ 机器 1（Worker）：正常运行中
+- ✅ 机器 2（Worker）：正常运行中
+- ✅ 机器 3（Worker）：正常运行中
 
 ## mllm-rl
 
-**拉取 attempts 失败**: attempts 不可用或返回非 JSON
+- ✅ 机器 1（Worker）：正常运行中
+- ✅ 机器 2（Worker）：正常运行中
+- ✅ 机器 3（Worker）：正常运行中
 
 ## mllm-agent
 
@@ -20,7 +24,9 @@ _自动生成于 2026-04-11 00:06:06_
 
 ## mllm-bmk
 
-**拉取 attempts 失败**: attempts 不可用或返回非 JSON
+- ✅ 机器 1（Worker）：正常运行中
+- ✅ 机器 2（Worker）：正常运行中
+- ✅ 机器 3（Worker）：正常运行中
 
 ## mllm-back
 
